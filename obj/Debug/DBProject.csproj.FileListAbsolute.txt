@@ -1,0 +1,90 @@
+G:\DB Project\DBProject\obj\Debug\DBProject.csproj.AssemblyReference.cache
+G:\DB Project\DBProject\obj\Debug\DBProject.csproj.SuggestedBindingRedirects.cache
+G:\DB Project\DBProject\obj\Debug\DBProject.Form1.resources
+G:\DB Project\DBProject\obj\Debug\DBProject.Properties.Resources.resources
+G:\DB Project\DBProject\obj\Debug\DBProject.csproj.GenerateResource.cache
+G:\DB Project\DBProject\obj\Debug\DBProject.csproj.CoreCompileInputs.cache
+G:\DB Project\DBProject\bin\Debug\DBProject.exe.config
+G:\DB Project\DBProject\bin\Debug\DBProject.exe
+G:\DB Project\DBProject\bin\Debug\DBProject.pdb
+G:\DB Project\DBProject\obj\Debug\DBProject.exe
+G:\DB Project\DBProject\obj\Debug\DBProject.pdb
+G:\DB Project\DBProject\bin\Debug\Guna.UI2.dll
+G:\DB Project\DBProject\obj\Debug\DBProject.Forms.Employees.resources
+G:\DB Project\DBProject\obj\Debug\DBProject.csproj.CopyComplete
+G:\DB Project\DBProject\bin\Debug\System.Data.SqlClient.dll
+G:\DB Project\DBProject\bin\Debug\System.Data.SqlClient.xml
+G:\DB Project\DBProject\obj\Debug\DBProject.Forms.Services.resources
+E:\DBProject\bin\Debug\DBProject.exe.config
+E:\DBProject\bin\Debug\DBProject.exe
+E:\DBProject\bin\Debug\DBProject.pdb
+E:\DBProject\bin\Debug\Guna.UI2.dll
+E:\DBProject\bin\Debug\System.Data.SqlClient.dll
+E:\DBProject\bin\Debug\System.Data.SqlClient.xml
+E:\DBProject\obj\Debug\DBProject.csproj.AssemblyReference.cache
+E:\DBProject\obj\Debug\DBProject.csproj.SuggestedBindingRedirects.cache
+E:\DBProject\obj\Debug\DBProject.Form1.resources
+E:\DBProject\obj\Debug\DBProject.Forms.Employees.resources
+E:\DBProject\obj\Debug\DBProject.Forms.PlaceOrder.resources
+E:\DBProject\obj\Debug\DBProject.Forms.Services.resources
+E:\DBProject\obj\Debug\DBProject.Properties.Resources.resources
+E:\DBProject\obj\Debug\DBProject.csproj.GenerateResource.cache
+E:\DBProject\obj\Debug\DBProject.csproj.CoreCompileInputs.cache
+E:\DBProject\obj\Debug\DBProject.csproj.CopyComplete
+E:\DBProject\obj\Debug\DBProject.exe
+E:\DBProject\obj\Debug\DBProject.pdb
+E:\DBProject\obj\Debug\DBProject.Forms.OrderDetails.resources
+E:\DBProject\obj\Debug\DBProject.Forms.UpdateStock.resources
+E:\DBProject\obj\Debug\DBProject.Forms.Form1.resources
+E:\DBProject\obj\Debug\DBProject.Forms.Customer.resources
+E:\DBProject\obj\Debug\DBProject.Forms.Supply.resources
+G:\DSA Java\DBProject\DBProject\bin\Debug\DBProject.exe.config
+G:\DSA Java\DBProject\DBProject\bin\Debug\DBProject.exe
+G:\DSA Java\DBProject\DBProject\bin\Debug\DBProject.pdb
+G:\DSA Java\DBProject\DBProject\bin\Debug\Guna.UI2.dll
+G:\DSA Java\DBProject\DBProject\bin\Debug\System.Data.SqlClient.dll
+G:\DSA Java\DBProject\DBProject\bin\Debug\System.Data.SqlClient.xml
+G:\DSA Java\DBProject\DBProject\obj\Debug\DBProject.csproj.AssemblyReference.cache
+G:\DSA Java\DBProject\DBProject\obj\Debug\DBProject.csproj.SuggestedBindingRedirects.cache
+G:\DSA Java\DBProject\DBProject\obj\Debug\DBProject.Form1.resources
+G:\DSA Java\DBProject\DBProject\obj\Debug\DBProject.Forms.Form1.resources
+G:\DSA Java\DBProject\DBProject\obj\Debug\DBProject.Forms.Customer.resources
+G:\DSA Java\DBProject\DBProject\obj\Debug\DBProject.Forms.Employees.resources
+G:\DSA Java\DBProject\DBProject\obj\Debug\DBProject.Forms.OrderDetails.resources
+G:\DSA Java\DBProject\DBProject\obj\Debug\DBProject.Forms.PlaceOrder.resources
+G:\DSA Java\DBProject\DBProject\obj\Debug\DBProject.Forms.Services.resources
+G:\DSA Java\DBProject\DBProject\obj\Debug\DBProject.Forms.Supply.resources
+G:\DSA Java\DBProject\DBProject\obj\Debug\DBProject.Forms.UpdateStock.resources
+G:\DSA Java\DBProject\DBProject\obj\Debug\DBProject.Properties.Resources.resources
+G:\DSA Java\DBProject\DBProject\obj\Debug\DBProject.csproj.GenerateResource.cache
+G:\DSA Java\DBProject\DBProject\obj\Debug\DBProject.csproj.CoreCompileInputs.cache
+G:\DSA Java\DBProject\DBProject\obj\Debug\DBProject.csproj.CopyComplete
+G:\DSA Java\DBProject\DBProject\obj\Debug\DBProject.exe
+G:\DSA Java\DBProject\DBProject\obj\Debug\DBProject.pdb
+E:\DBProjectFinal\bin\Debug\DBProject.exe.config
+E:\DBProjectFinal\bin\Debug\DBProject.exe
+E:\DBProjectFinal\bin\Debug\DBProject.pdb
+E:\DBProjectFinal\bin\Debug\Guna.UI2.dll
+E:\DBProjectFinal\bin\Debug\System.Data.SqlClient.dll
+E:\DBProjectFinal\bin\Debug\System.Data.SqlClient.xml
+E:\DBProjectFinal\obj\Debug\DBProject.csproj.AssemblyReference.cache
+E:\DBProjectFinal\obj\Debug\DBProject.csproj.SuggestedBindingRedirects.cache
+E:\DBProjectFinal\obj\Debug\DBProject.Form1.resources
+E:\DBProjectFinal\obj\Debug\DBProject.Forms.Customer.resources
+E:\DBProjectFinal\obj\Debug\DBProject.Forms.Dashboard.resources
+E:\DBProjectFinal\obj\Debug\DBProject.Forms.Employees.resources
+E:\DBProjectFinal\obj\Debug\DBProject.Forms.Login.resources
+E:\DBProjectFinal\obj\Debug\DBProject.Forms.OrderDetails.resources
+E:\DBProjectFinal\obj\Debug\DBProject.Forms.PlaceOrder.resources
+E:\DBProjectFinal\obj\Debug\DBProject.Forms.Services.resources
+E:\DBProjectFinal\obj\Debug\DBProject.Forms.Supply.resources
+E:\DBProjectFinal\obj\Debug\DBProject.Forms.UpdateStock.resources
+E:\DBProjectFinal\obj\Debug\DBProject.Properties.Resources.resources
+E:\DBProjectFinal\obj\Debug\DBProject.csproj.GenerateResource.cache
+E:\DBProjectFinal\obj\Debug\DBProject.csproj.CoreCompileInputs.cache
+E:\DBProjectFinal\obj\Debug\DBProject.csproj.CopyComplete
+E:\DBProjectFinal\obj\Debug\DBProject.exe
+E:\DBProjectFinal\obj\Debug\DBProject.pdb
+E:\DBProjectFinal\obj\Debug\DBProject.Forms.AddItems.resources
+E:\DBProjectFinal\obj\Debug\DBProject.Forms.Signup.resources
+E:\DBProjectFinal\obj\Debug\DBProject.Forms.ServicesData.resources
